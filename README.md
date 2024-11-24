@@ -4,7 +4,7 @@
 Comment commencer le projet ?
 
 npm i |
-npm run dev |
+npm run build |
 npm start
 
 Comment payer ?
