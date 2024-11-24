@@ -3,8 +3,8 @@
 
 Comment commencer le projet ?
 
-npm i
-npm run dev
+npm i |
+npm run dev |
 npm start
 
 Comment payer ?
